@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IngressoService.Api", "src\API\IngressoService.Api.csproj", "{ECECD002-761D-4A5D-930A-3813874C08DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IngressoService.Core", "src\Core\IngressoService.Core.csproj", "{49D707A9-892C-4C3D-93D9-33040E94F2D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECECD002-761D-4A5D-930A-3813874C08DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECECD002-761D-4A5D-930A-3813874C08DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECECD002-761D-4A5D-930A-3813874C08DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECECD002-761D-4A5D-930A-3813874C08DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D707A9-892C-4C3D-93D9-33040E94F2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D707A9-892C-4C3D-93D9-33040E94F2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D707A9-892C-4C3D-93D9-33040E94F2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D707A9-892C-4C3D-93D9-33040E94F2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93AEEB6C-04D5-4065-A4DC-79CC856FA535}
+	EndGlobalSection
+EndGlobal
