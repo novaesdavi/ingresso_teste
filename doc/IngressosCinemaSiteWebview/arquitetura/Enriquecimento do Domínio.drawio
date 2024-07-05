@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-07-02T03:06:47.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="YJUpVej9mEnFjemGThFP" version="24.5.1" type="device" pages="3">
+<mxfile host="Electron" modified="2024-07-05T03:10:19.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="9W1RZasHVYmzaYvlCDYk" version="24.5.1" type="device" pages="3">
   <diagram name="Entidades" id="xI30XM8JuwD7gmCvTsga">
-    <mxGraphModel dx="3346" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3102" dy="1208" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="ImmpMmd_PSmf4jzoIvcc-29" value="Tipo de Dominio" style="locked=1;" parent="0" visible="0" />
@@ -13,10 +13,7 @@
         <mxCell id="ImmpMmd_PSmf4jzoIvcc-43" value="EXTERNAL DOMAIN" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;verticalAlign=top;fontSize=21;fillColor=none;strokeColor=#0e8088;align=center;" parent="ImmpMmd_PSmf4jzoIvcc-29" vertex="1">
           <mxGeometry x="-216" y="1135" width="429" height="271" as="geometry" />
         </mxCell>
-        <mxCell id="1" value="Objetos" style="locked=1;" parent="0" />
-        <mxCell id="WAuGadjzerKTHkQYb6Oh-2" value="&lt;div style=&quot;&quot;&gt;Sala&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;hr&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;IdSala&lt;/div&gt;&lt;div style=&quot;&quot;&gt;IdPrecificacao&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NomeSala&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;QtdeAssentos&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;hr&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cadastrar&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Atualizar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;sketch=1;curveFitting=1;jiggle=2;fillStyle=auto;align=left;spacingLeft=5;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-578" y="88" width="130" height="133" as="geometry" />
-        </mxCell>
+        <mxCell id="1" value="Objetos" style="" parent="0" />
         <mxCell id="WAuGadjzerKTHkQYb6Oh-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;shadow=0;" parent="1" source="WAuGadjzerKTHkQYb6Oh-6" target="WAuGadjzerKTHkQYb6Oh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -134,7 +131,10 @@
         <mxCell id="ImmpMmd_PSmf4jzoIvcc-41" value="TransacaoPagamento&lt;hr&gt;&lt;div&gt;IdTransacao&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IdStatusTransacao&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;spacingLeft=6;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-173" y="1194" width="175" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="ImmpMmd_PSmf4jzoIvcc-5" value="Contextos" style="locked=1;" parent="0" visible="0" />
+        <mxCell id="WAuGadjzerKTHkQYb6Oh-2" value="&lt;div style=&quot;&quot;&gt;Sala&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;hr&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;IdSala&lt;/div&gt;&lt;div style=&quot;&quot;&gt;IdPrecificacao&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NomeSala&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;QtdeAssentos&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;hr&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cadastrar&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Atualizar&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;sketch=1;curveFitting=1;jiggle=2;fillStyle=auto;align=left;spacingLeft=5;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-604" y="81" width="130" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="ImmpMmd_PSmf4jzoIvcc-5" value="Contextos" style="locked=1;" parent="0" />
         <mxCell id="ImmpMmd_PSmf4jzoIvcc-21" value="Carrinho de Compras" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;fontColor=#ffffff;strokeColor=#005700;horizontal=1;verticalAlign=middle;fontSize=25;strokeWidth=2;rotation=-15;align=center;spacingLeft=0;fontStyle=1" parent="ImmpMmd_PSmf4jzoIvcc-5" vertex="1">
           <mxGeometry x="-899.08" y="593.58" width="884" height="399.75" as="geometry" />
         </mxCell>
